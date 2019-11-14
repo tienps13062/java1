@@ -1,0 +1,15 @@
+
+
+Bài 1:
+	(gõ hàm main)
+    khai báo 3 biến điểm toán lý hoá
+    tính TBC với toán hệ số 2, hoá 3, lý 4
+    In ra màn hình kết quá TBC
+2:
+	Nhập tên :
+	Nhập tuổi : 
+	Nhập số nụ hôn:
+	Nhập số lần ôm :
+	Nhập số đo vòng 2 : 
+	=> in ra thông tin vừa nhập
+	
