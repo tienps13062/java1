@@ -12,4 +12,19 @@ Bài 2:
 	Nhập số lần ôm :
 	Nhập số đo vòng 2 : 
 	=> in ra thông tin vừa nhập
+Bài 3 :(slide2)
+	Nhập 3 số thực từ bàn phím. Xây dựng biểu thức cho giá trị là true nếu 3 số thỏa mãn 
+	là 3 cạnh của một tam giác(tổng 2 cạnh > cạnh còn lại).
+	Tính TBC 3 số -> ép kiểu về int
+Bài 4 : int h = 5; b = 6; t = 7
+	++h + b-- - t ++
+	-- t - ++ h -- b 
+	h++ - b-- + t--
+	
+	
+	
+	
+	
+	
+	
 	
