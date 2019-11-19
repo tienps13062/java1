@@ -20,8 +20,14 @@ Bài 4 : int h = 5; b = 6; t = 7
 	++h + b-- - t ++
 	-- t - ++ h -- b 
 	h++ - b-- + t--
-	
-	
+Bài 5: 
+	Nhập số thành viên trong gđ:
+	Nhập tên bạn:
+	Nhập tuổi bạn:
+	Nhập tuổi người yêu: 
+	Nhập số tuổi thọ:
+	=> in ra tất cả thông tin vừa nhập
+	Làm bài trong 7p
 	
 	
 	
