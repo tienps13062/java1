@@ -29,8 +29,26 @@ Bài 5:
 	=> in ra tất cả thông tin vừa nhập
 	Làm bài trong 7p
 	
-	
-	
+Bài 6:
+	- Nhập 3 số bất kỳ từ bàn phím. Tìm số lớn nhất trong 3 số. Dùng if else
+	- Nhập điểm biết : 
+		từ 0-5 -> yếu
+		5-7 -> khá
+		7-10 -> giỏi 
+	- Nhập vào thời tiết: 
+		- nắng -> nhớ mang mũ
+		- mưa -> nhớ mang ô
+		- mát -> nhớ mang tiền
+		- còn lại mang người yêu
+Bài 7: (switch case)
+		Xây dựng menu :
+		1: In ra tên người yêu gần nhất
+		2: In ra Vòng 2 của bạn 
+		3: in ra tuổi thọ của bạn 
+		4: in ra dòng chữ "AAA là cai gì"
+Bài 8: (switch case)
+		Nhập vào tháng, in ra số ngày trong tháng
+
 	
 	
 	
