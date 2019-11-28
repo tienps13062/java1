@@ -46,9 +46,22 @@ Bài 7: (switch case)
 		2: In ra Vòng 2 của bạn 
 		3: in ra tuổi thọ của bạn 
 		4: in ra dòng chữ "AAA là cai gì"
+
 Bài 8: (switch case)
 		Nhập vào tháng, in ra số ngày trong tháng
-
-	
+Bài 9:  
+	Tính trung bình cộng các số chia hết cho 3 từ 27 đến 250.
+Bài 10:
+	Nhập điểm từ 0 đến 10
+Bài 11:
+	Tính TBC các số chia hêt cho 3 từ min đến max, trong đó min max được nhập từ bàn phím
+Bài 12: (for)
+	Xuất bảng cửu chương ( full từ 1-9 )
+Bài 13: (kết hợp while(true), for, switch ...)
+	Xây dựng chương trình (menu) như sau:
+	1. bài 10
+	2. bài 11
+	3. bài 12
+	4. thoát
 	
 	
