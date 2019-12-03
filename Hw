@@ -64,4 +64,13 @@ Bài 13: (kết hợp while(true), for, switch ...)
 	3. bài 12
 	4. thoát
 	
+Bài 14:
+	Nhập vào tên của cả nhà theo thứ tự từ 1 đến hết.
+	In ra tên từ STT cao nhất.
+Bìa 15:
+	Nhập vào dãy số bất kỳ. 
+	-> in ra dãy số đó
+	-> in ra những số chia hết cho cả 2 và 3
+	-> in ra phần tử áp chót
+	-> tính TBC của các số chia hết cho 5
 	
