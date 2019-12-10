@@ -79,3 +79,28 @@ Bài 16:
 	Nhập tuổi:
 	Nhập cân nặng:
 	=> Tuổi TB của cả nhà
+Bài 17: Nhập vào 2 số.
+	- Viết hàm đổi chỗ 2 số vừa nhập(có tham số)
+	- Hàm tính bình phương 2 số vừa nhập (có tham số)
+	- Tính TBC của 2 số (KDL trả về)
+	- Tìm max của 2 số(có tham số, có )
+	
+	
+
+======== Bài Ôn thi Final =========
+
+			-----------Menu ----------------
+1.	Nhập số yêu thích
+2.	Nhập thông tin ti vi
+3.	Xuất thông tin ti vi	
+4.	Tính chiều cao trung bình
+5.	In ra phẩn tử có chiều cao lớn nhất
+6.	Thoát
+Khai báo 3 mảng, mỗi mảng có size 100 phần tử : tenHang[], chieuCao[], mauSac[] .
+Xây dựng các hàm : 
+1.	Hàm tạo void nhapThongTin() : nhập thông tin cho n phần tử (số n được nhập vào từ bàn phím)Mỗi phần tử có tên hãng, chiều cao, màu sắc (1 điểm)
+2.	Hàm tạo  void xuatThongTin() : xuất n phần tử của mảng ( n đã có dữ liệu) (1.5 điểm ) 
+3.	Hàm tạo double TB() : Tính trung bình chiều cao các phần tử đã nhập vào (1 điểm )
+4.	Hàm tạo void/KDL max():  in ra phần tử có chiều cao lớn nhất ( 1 điểm)
+5.	Hàm tạo void/KDL soYeuThich() : nhập vào 1 số bất kỳ sau đó in ra căn bậc 2 và bình phương của số đó (1 điểm)
+	
