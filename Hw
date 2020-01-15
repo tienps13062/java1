@@ -1,106 +1,21 @@
-
-
 Bài 1:
-	(gõ hàm main)
-    khai báo 3 biến điểm toán lý hoá
-    tính TBC với toán hệ số 2, hoá 3, lý 4
-    In ra màn hình kết quá TBC
+	Sử dụng hàm, biến toàn cục 
+
+	nhapSoDo(): nhập số đo 3 vòng của người yêu
+	xuat(): in ra vòng có số đo lớn nhất
+	
 Bài 2:
-	Nhập tên :
-	Nhập tuổi : 
-	Nhập số nụ hôn:
-	Nhập số lần ôm :
-	Nhập số đo vòng 2 : 
-	=> in ra thông tin vừa nhập
-Bài 3 :(slide2)
-	Nhập 3 số thực từ bàn phím. Xây dựng biểu thức cho giá trị là true nếu 3 số thỏa mãn 
-	là 3 cạnh của một tam giác(tổng 2 cạnh > cạnh còn lại).
-	Tính TBC 3 số -> ép kiểu về int
-Bài 4 : int h = 5; b = 6; t = 7
-	++h + b-- - t ++
-	-- t - ++ h -- b 
-	h++ - b-- + t--
-Bài 5: 
 	Nhập số thành viên trong gđ:
 	Nhập tên bạn:
 	Nhập tuổi bạn:
 	Nhập tuổi người yêu: 
 	Nhập số tuổi thọ:
 	=> in ra tất cả thông tin vừa nhập
-	Làm bài trong 7p
-	
-Bài 6:
-	- Nhập 3 số bất kỳ từ bàn phím. Tìm số lớn nhất trong 3 số. Dùng if else
-	- Nhập điểm biết : 
-		từ 0-5 -> yếu
-		5-7 -> khá
-		7-10 -> giỏi 
-	- Nhập vào thời tiết: 
-		- nắng -> nhớ mang mũ
-		- mưa -> nhớ mang ô
-		- mát -> nhớ mang tiền
-		- còn lại mang người yêu
-Bài 7: (switch case)
-		Xây dựng menu :
-		1: In ra tên người yêu gần nhất
-		2: In ra Vòng 2 của bạn 
-		3: in ra tuổi thọ của bạn 
-		4: in ra dòng chữ "AAA là cai gì"
-
-Bài 8: (switch case)
-		Nhập vào tháng, in ra số ngày trong tháng
-Bài 9:  
-	Tính trung bình cộng các số chia hết cho 3 từ 27 đến 250.
-Bài 10:
-	Nhập điểm từ 0 đến 10
-Bài 11:
-	Tính TBC các số chia hêt cho 3 từ min đến max, trong đó min max được nhập từ bàn phím
-Bài 12: (for)
-	Xuất bảng cửu chương ( full từ 1-9 )
-Bài 13: (kết hợp while(true), for, switch ...)
-	Xây dựng chương trình (menu) như sau:
-	1. bài 10
-	2. bài 11
-	3. bài 12
-	4. thoát
-	
-Bài 14:
-	Nhập vào tên của cả nhà theo thứ tự từ 1 đến hết.
-	In ra tên từ STT cao nhất.
-Bìa 15:
-	Nhập vào dãy số bất kỳ. 
-	-> in ra dãy số đó
-	-> in ra những số chia hết cho cả 2 và 3
-	-> in ra phần tử áp chót
-	-> tính TBC của các số chia hết cho 5
-Bài 16:
-	Info gia đình 
-	Nhập tên:
-	Nhập tuổi:
-	Nhập cân nặng:
-	=> Tuổi TB của cả nhà
-Bài 17: Nhập vào 2 số.
-	- Viết hàm đổi chỗ 2 số vừa nhập(có tham số)
-	- Hàm tính bình phương 2 số vừa nhập (có tham số)
-	- Tính TBC của 2 số (KDL trả về)
-	- Tìm max của 2 số(có tham số, có )
-	
-	
-
-======== Bài Ôn thi Final =========
-
-			-----------Menu ----------------
-1.	Nhập số yêu thích
-2.	Nhập thông tin ti vi
-3.	Xuất thông tin ti vi	
-4.	Tính chiều cao trung bình
-5.	In ra phẩn tử có chiều cao lớn nhất
-6.	Thoát
-Khai báo 3 mảng, mỗi mảng có size 100 phần tử : tenHang[], chieuCao[], mauSac[] .
-Xây dựng các hàm : 
-1.	Hàm tạo void nhapThongTin() : nhập thông tin cho n phần tử (số n được nhập vào từ bàn phím)Mỗi phần tử có tên hãng, chiều cao, màu sắc (1 điểm)
-2.	Hàm tạo  void xuatThongTin() : xuất n phần tử của mảng ( n đã có dữ liệu) (1.5 điểm ) 
-3.	Hàm tạo double TB() : Tính trung bình chiều cao các phần tử đã nhập vào (1 điểm )
-4.	Hàm tạo void/KDL max():  in ra phần tử có chiều cao lớn nhất ( 1 điểm)
-5.	Hàm tạo void/KDL soYeuThich() : nhập vào 1 số bất kỳ sau đó in ra căn bậc 2 và bình phương của số đó (1 điểm)
-	
+Bài 3: 
+	Nhập tuổi của bạn:
+	Nhập tuổi người yêu bạn:
+	-> Tính tuổi thọ = tuổi bạn + tuổi ng yêu
+	=> in ra tuổi thọ của bạn
+	-> Nếu tuổi thọ từ 0 -> 100 => in ra "Sống đủ rồi"
+	-> Nếu tuổi thọ > 150 => in ra "Con cháu vất vả"
+	(*) Thêm: tìm hiểu try catch để nhập tuổi là số 
