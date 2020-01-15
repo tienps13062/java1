@@ -17,7 +17,7 @@ Bài 3:
 	-> Tính tuổi thọ = tuổi bạn + tuổi ng yêu
 	=> in ra tuổi thọ của bạn
 	-> Nếu tuổi thọ từ 0 -> 100 => in ra "Sống đủ rồi"
-	-> Nếu tuổi thọ > 150 => in ra "Con cháu vất vả"
+	-> Nếu tuổi thọ >= 100 => in ra "Con cháu vất vả"
 	(*) Thêm: tìm hiểu try catch để nhập tuổi là số 
 Bài 4: 
 	- Nhập vào thời tiết: 
