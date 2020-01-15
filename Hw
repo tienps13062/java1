@@ -19,3 +19,9 @@ Bài 3:
 	-> Nếu tuổi thọ từ 0 -> 100 => in ra "Sống đủ rồi"
 	-> Nếu tuổi thọ > 150 => in ra "Con cháu vất vả"
 	(*) Thêm: tìm hiểu try catch để nhập tuổi là số 
+Bài 4: 
+	- Nhập vào thời tiết: 
+		- nắng -> nhớ mang mũ
+		- mưa -> nhớ mang ô
+		- mát -> nhớ mang tiền
+		- còn lại mang người yêu
