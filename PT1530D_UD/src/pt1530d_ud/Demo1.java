@@ -40,9 +40,11 @@ public class Demo1 {
         
         double max = (a > b) ? a : b;
         String maaaax = (max > c) ? "A B lớn nhất" : "C lớn nhất";
-
+        boolean dungSai = a > b ? true : false;
+        
         System.out.println(max);
         System.out.println(maaaax);
+        System.out.println(dungSai);
         
         
     }

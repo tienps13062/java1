@@ -38,6 +38,12 @@ public class demo2 {
         for (int i = 0; i < tuoi.length; i++) {
             System.out.print(tuoi[i] + "  ");
         }
+        
+        for(int i = 0; i < size; i++){
+            if(tuoi[i] % 2 == 0){
+                System.out.print("Tuổi chia hết cho 2: "+ tuoi[i]);
+            }
+        }
     }
 
     public static void TBC() {
